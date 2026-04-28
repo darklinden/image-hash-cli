@@ -7,3 +7,5 @@ edition = "2024"
 clap = { version = "4", features = ["derive"] }
 image = "0.25.10"
 imagehash = { git = "https://github.com/takebayashi/imagehash-rs" }
+walkdir = "2"
+kamadak-exif = "0.5"
