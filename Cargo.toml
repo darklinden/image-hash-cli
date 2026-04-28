@@ -9,3 +9,5 @@ image = "0.25.10"
 imagehash = { git = "https://github.com/takebayashi/imagehash-rs" }
 walkdir = "2"
 kamadak-exif = "0.5"
+sha2 = "0.10"
+hex = "0.4"
